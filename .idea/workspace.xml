@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b0e2561-2b56-4555-9705-54224ff840ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/AbstractClass/Fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array&amp;amp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/ArrayList/Arrlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/ArrayList/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/LinkedList/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/LinkedList/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/LinkedList/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/TH1/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/TH1/listInteger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/TH2/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/TH2/LinkedListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-LinkedList/TH2/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/view/add-student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/view/edit-student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul2/src/view/list-student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/controller/ScoreController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/controller/SubjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/model/ClassName.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/model/Score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/model/ScoreModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/view/add_Score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/view/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/view/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Modul_2/src/view/show_score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean_Code/TH1/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean_Code/TH1/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Datastructures/SplStack/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Datastructures/Square-Dancer/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Datastructures/Square-Dancer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_test/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Patient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/ValidateAccount/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/ValidateEmail/Pattern.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/ValidateNameClass/NameClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/ValidateSDT/Phone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/kiem-tra-chu-hoa/Regexp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-sap-xep/SXchen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-sap-xep/SXchon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-sap-xep/SXnoibot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-tim-kiem/Dem-phan-tu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-tim-kiem/Game-doan-so/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-tim-kiem/MaxMin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/ClassController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/PointController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/SubjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ClassStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ClassStudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/PointModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SubjectModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/add_Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/editPoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/editStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/listClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/listPoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/listStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/listSubject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/MVC_T/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/MVC_T/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/MVC_demo/.idea/MVC_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/QUAN_LY_DIEM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/QUANLYDIEM.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Controller/PointController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Controller/SubjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/ClassStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/PointModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/Students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/Model/SubjectModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/View/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/View/add_Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/View/guest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/View/listPoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/View/listStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/src/View/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/AjaxLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/Flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/assets/coloredbg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/assets/gridtile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/assets/gridtile_3x3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/assets/gridtile_3x3_white.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/assets/gridtile_white.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/grabbing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/meanmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/preloader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/revolution/closedhand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/revolution/layers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/revolution/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/revolution/openhand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/revolution/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/assets/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/blog_details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/course.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/course_details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/event.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/event_details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/index_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/index_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/index_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/teacher_pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/demo/team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-brands-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-regular-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/fa-solid-900d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/flaticon/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/flaticon/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/flaticon/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/flaticon/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/flaticon/Flaticond41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/revicons/revicons90c6.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/revicons/revicons90c6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/revicons/revicons90c6.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/fonts/revicons/revicons90c6.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/about_thinking.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/about_us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/banner_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/banner_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/counter_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/inner_banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/inner_banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/inner_banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/inner_banner_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/inner_banner_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/instructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/learnstep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/map_shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/phone_mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/teamgroup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/banner/video_mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/blog3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/blog3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/blog3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/blog_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/blog_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/blog_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/details_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/details_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/side_blog_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/side_blog_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/blog/side_blog_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/courses/courses_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/courses/courses_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/courses/courses_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/courses/courses_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/courses/courses_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/courses/courses_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/events/event_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/events/event_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/events/event_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/courses_provide_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/courses_provide_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/courses_provide_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/courses_provide_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/courses_provide_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/courses_provide_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/features_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/features_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/features_2_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/features_2_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/features_2_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/features/features_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/icons/app_store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/icons/play_store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/logos/logo-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/bubble_shpe_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/bubble_shpe_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/footer_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/footer_bg_shpe_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/round_shpae_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/shape_bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/shape_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/shape_top_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/team_shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/testimonial_2_shpe_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/testimonial_2_shpe_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/testimonial_2_shpe_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/video_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/video_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/shapes/waves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/review_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/review_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/review_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/review_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/team_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/team_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/team_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/team_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/images/team/team_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.migration.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.navigation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/extensions/revolution.extension.video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/assets/revolution/revolution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/jquery.meanmenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/map-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/page-smoth-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-MVC/caseStudy_test/case_study_modul2/style/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xu-li-ngoai-le/DivideByZeroException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/html.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dknguoidung.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/Application2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/Application2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k2ffcHWnVdNo4Pz4U5EN7X5qvp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo-MVC/MVC_T" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/src/View" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/View" />
+      <recent name="$PROJECT_DIR$/style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0e2561-2b56-4555-9705-54224ff840ae" name="Default Changelist" comment="" />
+      <created>1604903710575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604903710575</updated>
+      <workItem from="1604903711855" duration="2971000" />
+      <workItem from="1604906974118" duration="11416000" />
+      <workItem from="1604990090560" duration="16234000" />
+      <workItem from="1605024351439" duration="1650000" />
+      <workItem from="1605056337884" duration="386000" />
+      <workItem from="1605060171086" duration="111000" />
+      <workItem from="1607499313288" duration="10021000" />
+      <workItem from="1607509873521" duration="1208000" />
+      <workItem from="1607524893001" duration="9346000" />
+      <workItem from="1607562107540" duration="13950000" />
+      <workItem from="1607582245155" duration="3252000" />
+      <workItem from="1607587566750" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
